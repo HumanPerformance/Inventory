@@ -1,0 +1,6 @@
+Component ID,Component Name,Manufacturer or Distributor,Component Type,Measurement or Functionality,Link,Status,Number in Stock
+APDS-9960,RGB.Gesture,SparkFun,Sensor,"RGB, Distance, Gesture, Ambient Light",https://www.sparkfun.com/products/12787,Prime,2
+SEN-12780,ZX Distance and Gesture Sensor,SparkFun,Sensor,"Distance, Gesture",https://www.sparkfun.com/products/12780,Legacy,6
+VL-6180,Time of Flight Sensor,SparkFun,Sensor,"Distance, Ambient Light",https://www.sparkfun.com/products/12784,Prime,2
+PRT-11231,SparkFun Power Cell – LiPo Charger/Booster,SparkFun,Charger,Charging LiPo Batteries,https://www.sparkfun.com/products/11231,Legacy,1
+1501,Trinket 5V,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/products/1501,Inspection,1
