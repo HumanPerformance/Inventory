@@ -1,0 +1,22 @@
+,Processor,RAM,I/O,Other
+Trinket,ATtiny85,512 bytes,5 Analog pins (3 can be used as digital) ,Does not have a serial port connection for debugging so the serial port monitor can’t send/receive data.
+Trinket Pro,ATMega328 ,2k,18 GPIO,Can program over USB or FTDI
+Arduino Pro Mini,ATMega328 ,2k,14 digital (6 can be used as PWM outputs); 6 Analog,
+Arduino Uno,ATMega328,2k,13 Digital; 6 Analog,
+,,,,
+,,,,
+,Pins Req. ,Capabilities,Range,Power Usage
+ADXL 335: Accelerometer,3 analog,Acceleration,±3g,"1.8-3.6V,        ALS: 350µA"
+,,Tilt,,
+,,Motion,,
+,,Shock,,
+,,vibration,,
+ADPS 9960: Gesture Sensor,1 digital,ambient light,10 - 20 cm. Distance: 50cm,1.7 mA (typical average) ALS: 300 ?A
+,2 analog,ambient color,,
+,,proximity,,
+,,gesture,,
+VL 6180: Range Finder,2 analog,Proximity,Up to 10 cm. ,Ranging: 1.7 mA (typical average) ALS: 300 ?A
+,,Ambient light,,
+,,VCSEL light source,,
+SEN 12780: ZX Distance & Gesture Sensor,1 digital,Object location detection (infrared). ,Swiping: 20cm. Distance: 25.5 cm,
+,2 analog, Distance & swiping.,,
