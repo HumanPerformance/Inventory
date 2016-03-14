@@ -3,11 +3,12 @@ APDS-9960,RGB.Gesture,SparkFun,Sensor,"RGB, Distance, Gesture, Ambient Light",ht
 SEN-12780,ZX Distance and Gesture Sensor,SparkFun,Sensor,"Distance, Gesture",https://www.sparkfun.com/products/12780,Legacy,6
 VL-6180,Time of Flight Sensor,SparkFun,Sensor,"Distance, Ambient Light",https://www.sparkfun.com/products/12784,Prime,2
 PRT-11231,SparkFun Power Cell – LiPo Charger/Booster ,SparkFun,Charger,Charging LiPo Batteries,https://www.sparkfun.com/products/11231,Legacy,1
+DEV-11114,Arduino Pro Mini 328 - 3.3V/8MHz,SparkFun,Microcontroller,Control circuits,https://www.sparkfun.com/products/11114?_ga=1.94401244.1759283908.1446057952,Prime,
 ADA-1501,Trinket 5V,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/products/1501,Inspection,1
 ADA-2756,Teensy 3.2 3.3V,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/product/2756,Inspection,4
 ADA-175,Music and Sound Add-On pack fo Arduino,Adafruit,Development Kit,Audio,https://www.adafruit.com/products/175,Inspection,2
-ADA-2162,Universal Qi Wireless Transmitter,Adafruit,Charger,Wireless Charging,https://www.adafruit.com/product/2162,Inspection,4
-ADA-1901,Universal Qi Wireless Receiver,Adafruit,Charger,Wireless Charging,https://www.adafruit.com/products/1901,Inspection,4
+ADA-2162,Universal Qi Wireless Transmitter,Adafruit,Charger,Wireless Charging - Transmitter,https://www.adafruit.com/product/2162,Inspection,4
+ADA-1901,Universal Qi Wireless Receiver,Adafruit,Charger,Wireless Charging - Receiver,https://www.adafruit.com/products/1901,Inspection,4
 ADA-1171,Perma-Proto Rasperry Pi ,Adafruit,Breadboard,PCV,https://www.adafruit.com/products/1171,Prime,4
 ADA-356,Breadboard Trim Potentiometer,Adafruit,Potentiometer,Volatage Modulation,https://www.adafruit.com/products/356,Inspection,4
 ADA-248,AA Battery Holder with 5.5mm/2.1mm Plug,Adafruit,Battery Pack,Battery Holder,https://www.adafruit.com/products/248,Inspection,4
@@ -19,6 +20,6 @@ ADA-987,Class D Amp,Adafruit,Amplifier,Signal Amplification,https://www.adafruit
 ,Nylon Flexible Tubing,Amazon,Tubing,Protect Printing Filament,http://www.amazon.com/Nylon-High-Strength-Flexible-Tubing-Length/dp/B0092KXGDM/ref=sr_1_5?s=pc&ie=UTF8&qid=1457979164&sr=8-5&keywords=nylon+high+strength+flexible+tubing,Prime,1
 ,Heat Shrink Tube,Amazon,Tubing,Heat Shrink,http://www.amazon.com/SummitLink%C2%AE-Assorted-Shrink-Colors-Tubing/dp/B00Z36EQLU/ref=sr_1_1?ie=UTF8&qid=1457979354&sr=8-1&keywords=heat+shrink+tube+summitlink,Prime,1
 ,Regular Lighter Stash Spot Diversion Safe ,Amazon,Can Hide Your Monie$$$,Purchased by Mistake,http://www.amazon.com/Regular-Lighter-Stash-Spot-Diversion/dp/B00KZ2H4MA/ref=sr_1_1?ie=UTF8&qid=1457979498&sr=8-1&keywords=regular+lighter+stash+spot+diversion+safe,,1
-,Kester Pocker Pack Solder Tube,Amazon,Soldering Wire,"Soldering Wire: 60/40, 0.031,0.50 oz Tube",http://www.amazon.com/Kester-Pocket-Pack-Solder-0-031/dp/B00068IJNQ/ref=sr_1_2?ie=UTF8&qid=1457979703&sr=8-2&keywords=kester+pocket+pack+solder+60+40+0.031+0.50+oz.+tube,,3
-,Jumper Wires (120 pcs),Amazon,Wires,Jumper Wires,http://www.amazon.com/Kalevel%C2%AE-120pcs-Multicolored-Female-Breadboard/dp/B00M5WLZDW/ref=sr_1_1?ie=UTF8&qid=1457979890&sr=8-1&keywords=kalevel++breadboard+jumper+wires,,3
-,Belkin Power Strip,Amazon,Power Strip,Extension Cord,http://www.amazon.com/Belkin-Protector-Ethernet-Protection-Extended/dp/B000HPX46U/ref=sr_1_4?ie=UTF8&qid=1457980017&sr=8-4&keywords=belkin+12+outlet+power+strip,,5
+,Kester Pocker Pack Solder Tube,Amazon,Soldering Wire,"Soldering Wire: 60/40, 0.031,0.50 oz Tube",http://www.amazon.com/Kester-Pocket-Pack-Solder-0-031/dp/B00068IJNQ/ref=sr_1_2?ie=UTF8&qid=1457979703&sr=8-2&keywords=kester+pocket+pack+solder+60+40+0.031+0.50+oz.+tube,Prime,3
+,Jumper Wires (120 pcs),Amazon,Wires,Jumper Wires,http://www.amazon.com/Kalevel%C2%AE-120pcs-Multicolored-Female-Breadboard/dp/B00M5WLZDW/ref=sr_1_1?ie=UTF8&qid=1457979890&sr=8-1&keywords=kalevel++breadboard+jumper+wires,Prime,3
+,Belkin Power Strip,Amazon,Power Strip,Extension Cord,http://www.amazon.com/Belkin-Protector-Ethernet-Protection-Extended/dp/B000HPX46U/ref=sr_1_4?ie=UTF8&qid=1457980017&sr=8-4&keywords=belkin+12+outlet+power+strip,Prime,5
