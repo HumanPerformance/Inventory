@@ -1,7 +1,7 @@
 Component ID,Component Name,Component Label,Manufacturer or Distributor,Component Type,Measurement or Functionality,Link,Status,Number in Stock
-APDS-9960,RGB.Gesture,Gest RGB,SparkFun,Sensor,"RGB, Distance, Gesture, Ambient Light",https://www.sparkfun.com/products/12787,Prime,2
+SEN-12787,RGB Gesture APDS-9960,Gest RGB,SparkFun,Sensor,"RGB, Distance, Gesture, Ambient Light",https://www.sparkfun.com/products/12787,Prime,5
 SEN-12780,ZX Distance and Gesture Sensor,,SparkFun,Sensor,"Distance, Gesture",https://www.sparkfun.com/products/12780,Legacy,6
-VL-6180,Time of Flight Sensor,,SparkFun,Sensor,"Distance, Ambient Light",https://www.sparkfun.com/products/12784,Prime,2
+SEN-12784, ToF Range Finder  VL-6180,,SparkFun,Sensor,"Distance, Ambient Light",https://www.sparkfun.com/products/12784,Prime,5
 PRT-11231,SparkFun Power Cell – LiPo Charger/Booster ,,SparkFun,Charger,Charging LiPo Batteries,https://www.sparkfun.com/products/11231,Legacy,1
 ADA-1501,Trinket 5V,,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/products/1501,Inspection,1
 ADA-2756,Teensy 3.2 3.3V,Teensy 3p2,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/product/2756,Inspection,4
@@ -39,12 +39,11 @@ DEV-12587,Pro Micro ,Ardu Pro Micro,SparkFun,Microcontroller,,https://www.sparkf
 DEV-11113,Arduino Pro Mini ,,SparkFun,Microcontroller,,https://www.sparkfun.com/products/11113,,
 COM-00526 ,Voltage Regulator 3.3V,3V Volage Reg,SparkFun,,,https://www.sparkfun.com/products/526,,
 ,Headphones,,,,,,,
-ADA-1367,Raspeberry Pi Camera Board,Rasp Pi Cam,Adafruit,Camera,,https://www.adafruit.com/products/1367,,
+ADA-1367,Raspeberry Pi Camera Board,Rasp Pi Cam,Adafruit,Camera,,https://www.adafruit.com/products/1367,,1
 958,Reflectance Sensor QTR-1A,ReflectSens,Polou,,,https://www.pololu.com/product/958,,4
 DEV-12660,MP3 Player Shield,MP3 Modules,SparkFun,,,https://www.sparkfun.com/products/12660,,3
 DEV-12757,Redboard,Redboards,SparkFun,,,https://www.sparkfun.com/products/12757,,2
 ADA-50,Arduino Unos,ARD UNOS,Adafruit,,,https://www.adafruit.com/products/50,,3
-,Panel Switches,Panel Switch,,,,,,28
 PRT-08483,Polymer Lithium Ion Battery,POLY ION BATTERY,SparkFun,,,https://www.sparkfun.com/products/8483,,7
 ,Male Headers,Breakaway,,,,http://www.amazon.com/Single-Header-Arduino-Prototype-Shield/dp/B00FR19WQA,,
 ADA-1944,PowerBoost 1000C,POW B 1000,Adafruit,,,https://www.adafruit.com/product/1944,,2
@@ -64,6 +63,27 @@ BOB-11570 ROHS,TRRS 3.5mm Jack Breakout,3p5 Audio,SparkFun,,,https://www.sparkfu
 SEN-13249,Camera Module - pcDuino V3 (5MP),PC DUINO3 CAM,SparkFun,,,https://www.sparkfun.com/products/13249,,4
 SEN-13285,PIR Motion Sensor ,IR PRESENCE SENSOR,,,,https://www.sparkfun.com/products/13285,,6
 ,Soldering Tubes,Solder,,,,,,2
-,LEDS,LEDS,,,,,,
+,LEDS,LEDs,,,,http://www.amazon.com/microtivity-Assorted-Diffused-Resistors-Colors/dp/B005H8MWOW/ref=sr_1_2?s=industrial&ie=UTF8&qid=1459190681&sr=1-2&keywords=LED+5+colors+pack+of+50,,
 ,Soldering Wire,SOLDERING WIRE,,,,,,4
-,Small Monitor (2 inches) ,2IN MONITOR,,,,,,1
+,4-Port USB Hub,,,,,http://www.amazon.com/HDE-SuperSpeed-Individual-Switches-Included/dp/B00L5ISCGA/ref=sr_1_2?ie=UTF8&qid=1459186041&sr=8-2&keywords=hde+4+port+usb+hub,,3
+,AC/DC Adapter,,,,,http://www.amazon.com/Coming-Data-Adapter-Connector-Certified/dp/B0194B7XO6/ref=sr_1_1?ie=UTF8&qid=1459186128&sr=8-1&keywords=coming+data+5v+AC%2FDC+adapter,,5
+ADA-913,"NTSC/PAL (Television) TFT Display - 3.5"" Diagonal",,Adafruit,,,https://www.adafruit.com/products/913,,1
+ADA-1904,Micro Lipo w/MicroUSB Jack - USB LiIon/LiPoly charger,,Adafruit,,,https://www.adafruit.com/product/1904,,5
+ADA-912,"NTSC/PAL (Television) TFT Display - 2.5"" Diagonal",,Adafruit,,,https://www.adafruit.com/product/912,,1
+ADA-911,"NTSC/PAL (Television) TFT Display - 2.0"" Diagonal",,Adafruit,,,https://www.adafruit.com/product/911,,2
+DEV-13297,Raspberry Pi 2 ,,Sparkfun,,,https://www.sparkfun.com/products/13297,,2
+DEV-13825,Raspberry Pi 3,,Sparkfun,,,https://www.sparkfun.com/products/13825,,3
+ROB-12221,"Aluminum Channel - 12""",,Sparkfun,,,https://www.sparkfun.com/products/12221,,2
+ROB-13140,Channel Slider Kit,,Sparkfun,,,https://www.sparkfun.com/products/13140,,2
+SEN-13284,9 Degrees of Freedom IMU Breakout - LSM9DS1,,Sparkfun,Sensor,,https://www.sparkfun.com/products/13284,,4
+ADA-191,Arduino Mega,,Adafruit,,,https://www.adafruit.com/products/191,,3
+,Wireless Keyboard Touchpad,,,keyboard,,http://www.amazon.com/FAVI-FE01-BL-Wireless-Keyboard-Touchpad/dp/B003UE52ME/ref=sr_1_8?ie=UTF8&qid=1459187526&sr=8-8&keywords=rii+mini+handheld+wireless+keyboard+mouse,,1
+,Spy Camera HD Video and Image Recording,,,video recorder,,http://www.amazon.com/PLAY-STORE-Multifunction-Included-Recording/dp/B014MGIDCO,,1
+EW-7811Un,Wi-Fi Nano USB Adapter,,Edi Max,Adapter,,http://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/wireless_adapters_n150/ew-7811un,,3
+ RB-Phi-107,Bridge Sensor Interface,,phidigits,,,http://www.robotshop.com/en/phidgetbridge-wheatstone-bridge-sensor-interface.html,,1
+UT33D,Digital Multimeter  MSR-R500,,Etekcity,,,http://www.etekcity.com/product/100111.html,,1
+,Leap Motion Controller,,Leap Motion,,,http://store-us.leapmotion.com/products/leap-motion-controller,,1
+LCD-13733,Raspberry Pi LCD 7'' Touchscreen ,,Sparkfun,,,https://www.sparkfun.com/products/13733,,1
+DE550,Wireless Digital Video Otoscope/Earscope,,Firefly,,,http://www.amazon.com/Firefly-DE550-Wireless-Otoscope-magnification/dp/B005BD3N5A,,1
+,2 Pack Coiled USB,,Cablematters,,,http://www.amazon.com/Cable-Matters-2-Pack-Gold-Plated-Micro-USB/dp/B00UASY666/ref=sr_1_1?s=industrial&ie=UTF8&qid=1459190261&sr=1-1&keywords=2+pack+coiled+usb+6ft+cable,,2
+,Assorted Switches,Switches,,,,,,
