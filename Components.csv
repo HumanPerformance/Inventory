@@ -2,13 +2,13 @@ Component ID,Component Name,Component Label,Manufacturer or Distributor,Componen
 SEN-12787,RGB Gesture APDS-9960,Gest RGB,SparkFun,Sensor,"RGB, Distance, Gesture, Ambient Light",https://www.sparkfun.com/products/12787,Prime,5
 SEN-12780,ZX Distance and Gesture Sensor,,SparkFun,Sensor,"Distance, Gesture",https://www.sparkfun.com/products/12780,Legacy,6
 SEN-12784, ToF Range Finder  VL-6180,TOF Range Finder legacy,SparkFun,Sensor,"Distance, Ambient Light",https://www.sparkfun.com/products/12784,Legacy,3
-PRT-11231,SparkFun Power Cell – LiPo Charger/Booster ,LIPO BOOST,SparkFun,Charger,Charging LiPo Batteries,https://www.sparkfun.com/products/11231,Legacy,1
+PRT-11231,SparkFun Power Cell – LiPo Charger/Booster ,LIPO BOOST,SparkFun,Charger,Charging LiPo Batteries,https://www.sparkfun.com/products/11231,Legacy,4
 ADA-1501,Trinket 5V,Trinket 5V,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/products/1501,Inspection,1
 ADA-2756,Teensy 3.2 3.3V,Teensy 3p2,Adafruit,Microcontroller,Control circuits,https://www.adafruit.com/product/2756,Inspection,4
 ADA-175,Music and Sound Add-On pack fo Arduino,,Adafruit,Development Kit,Audio,https://www.adafruit.com/products/175,Inspection,2
 ADA-2162,Universal Qi Wireless Transmitter,,Adafruit,Charger,Wireless Charging,https://www.adafruit.com/product/2162,Inspection,4
 ADA-1901,Universal Qi Wireless Receiver,,Adafruit,Charger,Wireless Charging,https://www.adafruit.com/products/1901,Inspection,4
-ADA-1171,Perma-Proto Rasperry Pi ,PCB Breadboard,Adafruit,CONTROL SYSTEM: Breadboard,PCV,https://www.adafruit.com/products/1171,Prime,3
+ADA-1171,Perma-Proto Rasperry Pi ,PCB Breadboard,Adafruit,CONTROL SYSTEM: Breadboard,PCV,https://www.adafruit.com/products/1171,Prime,10
 ADA-356,Breadboard Trim Potentiometer,,Adafruit,Potentiometer,Volatage Modulation,https://www.adafruit.com/products/356,Inspection,4
 ADA-248,AA Battery Holder with 5.5mm/2.1mm Plug,,Adafruit,Battery Pack,Battery Holder,https://www.adafruit.com/products/248,Inspection,4
 ADA-1063,Electret Microphone Amplifier ,Electret Mic,Adafruit,Microphone,,https://www.adafruit.com/products/1063,Inspection,6
@@ -23,7 +23,7 @@ ADA-987,Class D Amp,,Adafruit,Amplifier,Signal Amplification,https://www.adafrui
 ,Jumper Wires (120 pcs),,Amazon,Wires,Jumper Wires,http://www.amazon.com/Kalevel%C2%AE-120pcs-Multicolored-Female-Breadboard/dp/B00M5WLZDW/ref=sr_1_1?ie=UTF8&qid=1457979890&sr=8-1&keywords=kalevel++breadboard+jumper+wires,,3
 ,Belkin Power Strip,,Amazon,Power Strip,Extension Cord,http://www.amazon.com/Belkin-Protector-Ethernet-Protection-Extended/dp/B000HPX46U/ref=sr_1_4?ie=UTF8&qid=1457980017&sr=8-4&keywords=belkin+12+outlet+power+strip,,5
 DEV-09873,FTDI Basic Breakout 3.3V,3p3V FTDI,SparkFun,Adapter,USB Adapter,https://www.sparkfun.com/products/9873,,5
-F-GRR-PVA1,PVA Filament,,Chimera,Filament,3D Printer Support Filament,,,1
+F-GRR-PVA1,PVA Filament,,Chimera,Filament,PVA,,,1
 C-GRR-P400,PET Tape,,Chimera,Tape,Build Platform Tape,http://www.shop3dchimera.com/product/pet-build-tape-one-size-fits-all/?v=7516fd43adaa,,3
 WRL-12849,Bluetooth Audio (RN-52),BT Audio,SparkFun,,,https://www.sparkfun.com/products/12849,,
 PRT-13032,Breadboard Power Supply Stick,PWR SP BRD,SparkFun,,,https://www.sparkfun.com/products/13032,,1
@@ -40,7 +40,7 @@ COM-00526 ,Voltage Regulator 3.3V,3V Volage Reg,SparkFun,,,https://www.sparkfun.
 ADA-1367,Raspeberry Pi Camera Board,Rasp Pi Cam,Adafruit,Camera,,https://www.adafruit.com/products/1367,,1
 958,Reflectance Sensor QTR-1A,ReflectSens,Polou,,,https://www.pololu.com/product/958,,4
 DEV-12660,MP3 Player Shield,MP3 Modules,SparkFun,,,https://www.sparkfun.com/products/12660,,3
-DEV-12757,Redboard,Redboards,SparkFun,,,https://www.sparkfun.com/products/12757,,2
+DEV-12757,Redboard,Redboards,SparkFun,,,https://www.sparkfun.com/products/12757,,10
 ADA-50,Arduino Unos,ARD UNOS,Adafruit,,,https://www.adafruit.com/products/50,,3
 PRT-08483,Polymer Lithium Ion Battery,POLY ION BATTERY,SparkFun,,,https://www.sparkfun.com/products/8483,,7
 ,Male Headers,Breakaway,,,,http://www.amazon.com/Single-Header-Arduino-Prototype-Shield/dp/B00FR19WQA,,
@@ -89,6 +89,10 @@ DEV-12935,FTDI SmartBasic,FTDI SmartBasic,SparkFun,,,https://www.sparkfun.com/pr
 ,Terminal Blocks,Terminal Blocks,,,,,,
 ADA175,Music & sound add-on pack for Arduino ,Arduino Music and Sound,Adafruit,,,https://www.adafruit.com/product/176,,2
 RB-Phi-107,Phidgets PhidgetBridge Wheatstone Bridge Sensor ,,Robotshop,,,http://www.robotshop.com/en/phidgetbridge-wheatstone-bridge-sensor-interface.html,,1
-SEN-12785,SparkFun ToF Range Finder Sensor - VL6180,TOF Range Finder,SparkFun,Sensor,,https://www.sparkfun.com/products/12785,Prime,5
+SEN-12785,SparkFun ToF Range Finder Sensor - VL6180,TOF Range Finder,SparkFun,Sensor,,https://www.sparkfun.com/products/12785,Prime,4
 ,6 RPM Percision Gear Motor,6 RPM Motor,ServoCity,,,https://www.servocity.com/html/6_rpm_precision_gear_motor.html#.VzDfl4QrK70,Prime,2
 466,VCNL4010 Proximity/Light sensor,Prox Light Sensor ,Adafruit,Sensor,,https://www.adafruit.com/product/466,Prime,5
+,PLA Extrafill 1.75mm,,FilamentOne,Filament,PLA,,,2
+,PLA Filament,,MakerBot,Filament,PLA,,,12
+,NinjaFlex Filament,,NinjaTek,Filament,TPE (thermoplastic elastomer),,,4
+MD0570,Pulse/Heartbeat Sensor,Pulse Sensor,Modern Device,Sensor,Pulse Oximetry Sensor,https://moderndevice.com/product/pulse-heartbeat-sensor/,,4
