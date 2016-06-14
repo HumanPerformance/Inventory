@@ -34,7 +34,7 @@ BOB-12009,Logic Converter,LOGIC CONV,SparkFun,Bi-directional logic converter,,ht
 DEV-09716,FTDI Basic Breakout 5V,5V FTDI,SparkFun,Adapter,USB Adapter,https://www.sparkfun.com/products/9716,,5
 SEN-09836,Triple Axis Accelerometer ADXL345,ADXL,SparkFun,Sensor,,https://www.sparkfun.com/products/9836,,3
 DEV-12587,Pro Micro ,Ardu Pro Micro,SparkFun,Microcontroller,,https://www.sparkfun.com/products/12587,,
-DEV-11113,Arduino Pro Mini ,Arduino Pro Mini ,SparkFun,Microcontroller,,https://www.sparkfun.com/products/11113,,3
+DEV-11114,Arduino Pro Mini ,Arduino Pro Mini ,SparkFun,Microcontroller,,https://www.sparkfun.com/products/11114,,7
 COM-00526 ,Voltage Regulator 3.3V,3V Volage Reg,SparkFun,,,https://www.sparkfun.com/products/526,,
 ,Headphones,,,,,,,
 ADA-1367,Raspeberry Pi Camera Board,Rasp Pi Cam,Adafruit,Camera,,https://www.adafruit.com/products/1367,,1
@@ -84,7 +84,7 @@ DE550,Wireless Digital Video Otoscope/Earscope,,Firefly,,,http://www.amazon.com/
 ,2 Pack Coiled USB,,Cablematters,,,http://www.amazon.com/Cable-Matters-2-Pack-Gold-Plated-Micro-USB/dp/B00UASY666/ref=sr_1_1?s=industrial&ie=UTF8&qid=1459190261&sr=1-1&keywords=2+pack+coiled+usb+6ft+cable,,2
 ,Assorted Switches,Switches,,,,,,
 SEN-13284,9 Degrees of Freedom IMU Breakout - LSM9DS1,LSM 9 Degrees,SparkFun,Sensor,,https://www.sparkfun.com/products/13284,,8
-WRL-12577,Bluetooth Modem - BlueSMiRF Silver,BlueSMiRF,SparkFun,Bluetooth wireless serial cable replacement,,https://www.sparkfun.com/products/12577,,4
+WRL-12577,Bluetooth Modem - BlueSMiRF Silver,BlueSMiRF,SparkFun,Bluetooth wireless serial cable replacement,,https://www.sparkfun.com/products/12577,,6
 DEV-12935,FTDI SmartBasic,FTDI SmartBasic,SparkFun,,,https://www.sparkfun.com/products/12935,,3
 ,Terminal Blocks,Terminal Blocks,,,,,,
 ADA175,Music & sound add-on pack for Arduino ,Arduino Music and Sound,Adafruit,,,https://www.adafruit.com/product/176,,2
@@ -96,3 +96,4 @@ SEN-12785,SparkFun ToF Range Finder Sensor - VL6180,TOF Range Finder,SparkFun,Se
 ,PLA Filament,,MakerBot,Filament,PLA,,,12
 ,NinjaFlex Filament,,NinjaTek,Filament,TPE (thermoplastic elastomer),,,4
 MD0570,Pulse/Heartbeat Sensor,Pulse Sensor,Modern Device,Sensor,Pulse Oximetry Sensor,https://moderndevice.com/product/pulse-heartbeat-sensor/,,4
+PGM-09825,AVR Programmer,AVR Programmer,SparkFun,,,https://www.sparkfun.com/products/9825,,2
